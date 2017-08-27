@@ -1,0 +1,11 @@
+name: MusicPlus
+main: lk.mu.Main
+version: 1.1
+author: LK
+commands:
+   mreload:
+      description: Reloads the plugin
+      usage: /<command>
+   music:
+      description: Open MusicGUI
+      usage: /<command>
